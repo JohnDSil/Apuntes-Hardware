@@ -33,7 +33,7 @@ Podemos clasificar los S.I según el tipo de dato que procesa, el tamaño y la p
   
 - Híbrido: procesa señales analógicas y las convierte en digital. Se utilizan en el control de procesos y robótica.
   
-1.3.2 Tamaño y Potencia de trabajo
+# 1.3.2 Tamaño y Potencia de trabajo
 
 - Mainframes: son terminales conectados entre sí. El tamaño abarca a bancos, haciendas, etc.
   
@@ -45,7 +45,7 @@ Podemos clasificar los S.I según el tipo de dato que procesa, el tamaño y la p
   
 - Supercomputadores: están diseñados para destacar en su capacidad de realizar operaciones en coma flotante, realizan cálculos con dígitos de precisión para modelar fenómenos como el clima. En España tenemos el MareNostrum con 1.1 petaflops (10¹⁵) por segundo con un total de 50k de procesadores.
   
-1.3.3 Función
+# 1.3.3 Función
 
 - Servidores: prestan servicios a otros ordenadores compartiendo recursos entre sí. Serían la Web, el DNS, los DHCP, etc.
   
