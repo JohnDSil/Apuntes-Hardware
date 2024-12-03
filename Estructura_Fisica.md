@@ -1,4 +1,4 @@
-# Estructura Física
+# 2.Estructura Física
    
 El Sistema Informático está formado por componentes físicos. Estos componentes proporcionan rapidez de
 cálculo, precisión, capacidad de memoria, etc.
