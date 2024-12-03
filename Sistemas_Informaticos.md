@@ -1,6 +1,6 @@
-`<u>1. Sistemas Informáticos.</u>`
+# 1. Sistemas Informáticos
    
-1.1 Definición de Informática
+# 1.1 Definición de Informática
 
 La informática es el conjunto de conocimientos científicos y técnicos que hacen posible el tratamiento
 automático y racional de la información por medio de ordenadores.
