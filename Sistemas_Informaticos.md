@@ -1,4 +1,4 @@
-<u>1. Sistemas Informáticos</u>
+<u> 1. Sistemas Informáticos </u>
    
 1.1 Definición de Informática
 
