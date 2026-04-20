@@ -324,7 +324,7 @@
 | 🎯 **Qué busco** | Prácticas, trabajo de verano o posición junior en IT |
 | 🛠️ **Roles que encajan** | Técnico Helpdesk · Soporte IT · Técnico de Sistemas Junior |
 | 📍 **Ubicación** | Andalucía, España — presencial o remoto |
-| 📅 **Disponibilidad** | Verano 2025 (junio - septiembre) |
+| 📅 **Disponibilidad** | Verano 2026 (junio - septiembre) |
 | 💬 **Contacto** | [silvareinadaniel@gmail.com](mailto:silvareinadaniel@gmail.com) · [LinkedIn](https://www.linkedin.com/in/daniel-silva-reina-710907347/) |
 
 <br>
