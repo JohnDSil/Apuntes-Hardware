@@ -344,10 +344,7 @@ $ cat /etc/daniel/fun_facts.txt
 
 <br>
 
-<!-- VISITA CONTADOR ANIMADO -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JohnDSil/count.svg"/>
-</div>
+
 
 ---
 
