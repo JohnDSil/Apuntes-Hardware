@@ -10,6 +10,15 @@
 
 <br>
 
+<!-- OPEN TO WORK BANNER -->
+<div align="center">
+
+  ![Open To Work](https://img.shields.io/badge/🟢_DISPONIBLE-Buscando_prácticas_o_trabajo_este_verano-2ea44f?style=for-the-badge)
+
+</div>
+
+<br>
+
 <!-- BADGES -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JohnDSil&color=00D9FF&style=for-the-badge&label=VISITAS"/>
@@ -296,6 +305,38 @@
 | ![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **CCNA R&S** | 2025–2026 | 📋 Planificado |
 | ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white) **Cloud Practitioner** | 2026 | 🔭 En el horizonte |
 | ![RHCSA](https://img.shields.io/badge/RedHat-RHCSA-EE0000?style=flat-square&logo=redhat&logoColor=white) **RHCSA** | 2026 | 🔭 En el horizonte |
+
+</div>
+
+---
+
+## 💼 Disponible este verano
+
+<div align="center">
+
+> 🟢 **Estoy buscando activamente prácticas o trabajo para el verano 2025.**
+> Si tienes una oportunidad o quieres hablar, escríbeme sin compromiso.
+
+<br>
+
+| | |
+|:---:|:---|
+| 🎯 **Qué busco** | Prácticas, trabajo de verano o posición junior en IT |
+| 🛠️ **Roles que encajan** | Técnico Helpdesk · Soporte IT · Técnico de Sistemas Junior |
+| 📍 **Ubicación** | Andalucía, España — presencial o remoto |
+| 📅 **Disponibilidad** | Verano 2025 (junio - septiembre) |
+| 💬 **Contacto** | [silvareinadaniel@gmail.com](mailto:silvareinadaniel@gmail.com) · [LinkedIn](https://www.linkedin.com/in/daniel-silva-reina-710907347/) |
+
+<br>
+
+**¿Qué puedo aportar?**
+
+![Soporte Técnico](https://img.shields.io/badge/✔_Soporte_Técnico-Helpdesk_N1%2FN2-00D9FF?style=flat-square)
+![Windows Server](https://img.shields.io/badge/✔_Windows_Server-Active_Directory-0078D4?style=flat-square&logo=microsoft)
+![Linux](https://img.shields.io/badge/✔_Linux-Administración_básica-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Redes](https://img.shields.io/badge/✔_Redes-TCP%2FIP_·_DNS_·_DHCP-1BA0D7?style=flat-square&logo=cisco)
+![Scripting](https://img.shields.io/badge/✔_Scripting-Bash_·_PowerShell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Hardware](https://img.shields.io/badge/✔_Hardware-Montaje_y_mantenimiento-FF6B6B?style=flat-square)
 
 </div>
 
