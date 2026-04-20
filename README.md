@@ -314,7 +314,7 @@
 
 <div align="center">
 
-> 🟢 **Estoy buscando activamente prácticas o trabajo para el verano 2025.**
+> 🟢 **Estoy buscando activamente prácticas o trabajo para el verano 2026.**
 > Si tienes una oportunidad o quieres hablar, escríbeme sin compromiso.
 
 <br>
