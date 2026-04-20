@@ -114,11 +114,48 @@
 | 📂 Contenido | 📝 Descripción |
 |:---|:---|
 | **Apuntes ASIR** | Documentación de las asignaturas del grado |
-| **Prácticas Linux** | Configuraciones, scripts y ejercicios |
-| **Prácticas de Redes** | Topologías y configuraciones en Packet Tracer |
+| **Prácticas Linux** | Configuraciones, scripts y ejercicios en Ubuntu/Debian |
+| **Prácticas de Redes** | Topologías y configuraciones en Cisco Packet Tracer |
 | **Scripts Bash/PowerShell** | Automatizaciones que hago para aprender |
+| **Windows Server & AD** | Laboratorios con Active Directory y GPOs |
+| **Servicios Web** | Configuraciones de Apache, Nginx, DNS, DHCP, Samba |
 
 </div>
+
+---
+
+## 🧠 Lo que aprendí en 1º ASIR
+
+<div align="center">
+
+| 📚 Módulo | 🛠️ Herramientas | 💡 Lo más destacado |
+|:---|:---:|:---|
+| **Implantación de S.O.** | Linux, Windows Server | Instalación, configuración y administración de sistemas |
+| **Planificación y Admin. de Redes** | Packet Tracer, Wireshark | TCP/IP, VLANs, enrutamiento, análisis de tráfico |
+| **Fundamentos de Hardware** | Hardware físico | Montaje, diagnóstico y mantenimiento de equipos |
+| **Gestión de Bases de Datos** | MySQL | Diseño, consultas SQL y administración |
+| **Lenguajes de Marcas** | HTML, CSS | Maquetación web básica |
+| **Servicios en Red** | Apache, Nginx, DNS, DHCP, Samba | Despliegue y configuración de servicios |
+| **Seguridad y Alta Disponibilidad** | Wireshark, firewalls | Conceptos de seguridad y protección de redes |
+| **Administración de Sistemas** | Bash, PowerShell | Scripting, automatización y gestión de usuarios |
+
+</div>
+
+---
+
+## 📈 Mi progreso actual
+
+```
+🐧 Linux (administración)       ████████░░  80%
+🪟 Windows Server + AD          ███████░░░  70%
+🌐 Redes (TCP/IP, VLANs)        ███████░░░  70%
+💻 Bash scripting               ██████░░░░  60%
+🌐 Servicios web (Apache/Nginx)  ██████░░░░  60%
+💻 PowerShell                   █████░░░░░  55%
+🗄️  Bases de datos (SQL)         █████░░░░░  50%
+🐳 Docker                       ███░░░░░░░  30%
+☁️  Cloud / AWS                 ██░░░░░░░░  15%
+```
 
 ---
 
@@ -144,8 +181,11 @@
   <a href="https://www.linkedin.com/in/daniel-silva-reina-710907347/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tu-email@aqui.com" target="_blank">
+  <a href="mailto:silvareinadaniel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/SilvalionsTW" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://github.com/JohnDSil" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
