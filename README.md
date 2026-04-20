@@ -129,9 +129,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnDSil&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohnDSil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4"/>
-</div>
+
 
 
 
