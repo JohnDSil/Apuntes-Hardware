@@ -36,7 +36,34 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> ¿Quién soy?
+## 🔨 Actualmente trabajando en...
+
+<div align="center">
+
+| 🏗️ Proyecto | 📝 Descripción | 🔗 Link |
+|:---|:---|:---:|
+| 📘 **Apuntes ASIR** | Documentación completa del Grado Superior en Markdown — apuntes de todos los módulos de 1º organizados y accesibles | [Ver repo](https://github.com/JohnDSil/Apuntes-ASIR) |
+| 🐳 **Aprendiendo Docker** | Profundizando en contenedores para 2º ASIR | 🔄 En progreso |
+| 📋 **Preparando Network+** | Estudiando para la certificación CompTIA | 📚 En progreso |
+
+</div>
+
+---
+
+## 🌟 Proyecto destacado
+
+<div align="center">
+
+[![Apuntes ASIR](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JohnDSil&repo=Apuntes-ASIR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=FF6B6B)](https://github.com/JohnDSil/Apuntes-ASIR)
+
+> 📘 **¿Qué es?** Una página/repositorio con todos mis apuntes del Grado Superior ASIR escritos en Markdown.
+> Organizada por módulos, pensada para ser útil tanto para mí como para otros estudiantes de ASIR.
+>
+> 💡 *Si estás estudiando ASIR y te resulta útil, dale una ⭐ — me ayuda a saber que merece la pena seguir.*
+
+</div>
+
+---
 
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="340" height="255"/>
 
@@ -314,7 +341,7 @@
 
 <div align="center">
 
-> 🟢 **Estoy buscando activamente prácticas o trabajo para el verano 2026.**
+> 🟢 **Estoy buscando activamente prácticas o trabajo para el verano 2025.**
 > Si tienes una oportunidad o quieres hablar, escríbeme sin compromiso.
 
 <br>
@@ -324,7 +351,7 @@
 | 🎯 **Qué busco** | Prácticas, trabajo de verano o posición junior en IT |
 | 🛠️ **Roles que encajan** | Técnico Helpdesk · Soporte IT · Técnico de Sistemas Junior |
 | 📍 **Ubicación** | Andalucía, España — presencial o remoto |
-| 📅 **Disponibilidad** | Verano 2026 (junio - septiembre) |
+| 📅 **Disponibilidad** | Verano 2025 (junio - septiembre) |
 | 💬 **Contacto** | [silvareinadaniel@gmail.com](mailto:silvareinadaniel@gmail.com) · [LinkedIn](https://www.linkedin.com/in/daniel-silva-reina-710907347/) |
 
 <br>
