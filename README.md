@@ -122,41 +122,18 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnDSil&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff" width="60%"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnDSil&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true" width="100%"/>
 </div>
 
-<!-- SNAKE ANIMATION -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnDSil/JohnDSil/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnDSil/JohnDSil/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/JohnDSil/JohnDSil/output/github-snake.svg" width="100%"/>
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=JohnDSil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4"/>
 </div>
 
-> ⚠️ *Para activar la snake animation, añade este workflow a `.github/workflows/snake.yml` en tu repo de perfil:*
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 0 * * *"}]
->   workflow_dispatch:
-> jobs:
->   snake:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: JohnDSil
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -344,20 +321,32 @@
 
 ### 🌟 Fun Facts
 
-- 🌙 Trabajo mejor de noche — el silencio es mi mejor entorno de producción
-- ☕ El café no es opcional, es un **servicio crítico** de mi infraestructura personal
-- 🐧 Cada semana que pasa, el ratón me da más pereza que la terminal
-- 🏠 Mi HomeLab son dos VMs... pero para mí es como tener un datacenter
-- 🔧 Si algo falla, mi primera reacción es abrir la ArchWiki — aunque use Ubuntu
-- 📚 Leo documentación técnica para dormir (y sorprendentemente funciona)
-- 🎮 Gaming es mi forma de hacer rollback mental después de un día de prácticas
-- 🤦 He roto el sistema operativo más veces de las que me gustaría admitir. Y he aprendido más cada vez.
+```bash
+$ cat /etc/daniel/fun_facts.txt
+
+[*] Trabajo mejor de noche — el silencio es mi entorno de producción ideal
+[*] El café no es opcional: es un servicio crítico sin SLA definido
+[*] Mi HomeLab son dos VMs... pero en mi cabeza es un datacenter de tres plantas
+[*] Cada semana que pasa, el ratón me da más pereza que la terminal
+[*] He roto el sistema operativo más veces de las que me gustaría admitir
+    └── Y he aprendido más con cada rotura que con cualquier tutorial
+[*] Si algo falla, mi primer instinto es abrir la ArchWiki — aunque use Ubuntu
+[*] Gaming es mi forma de hacer rollback mental después de prácticas intensas
+[*] Tengo más snapshots de VMs que fotos en el móvil
+```
 
 ---
 
 <!-- QUOTE -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=La%20mejor%20forma%20de%20aprender%20administración%20de%20sistemas%20es%20romper%20cosas%20y%20arreglarlas&author=Cualquier%20SysAdmin%20honesto"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=La%20mejor%20forma%20de%20aprender%20sistemas%20es%20romperlos%20y%20arreglarlos&author=Cualquier%20SysAdmin%20honesto"/>
+</div>
+
+<br>
+
+<!-- VISITA CONTADOR ANIMADO -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JohnDSil/count.svg"/>
 </div>
 
 ---
