@@ -125,7 +125,88 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnDSil&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true" width="100%"/>
 </div>
 
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnDSil/JohnDSil/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnDSil/JohnDSil/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/JohnDSil/JohnDSil/output/github-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+> ⚠️ *Para activar la snake animation, añade este workflow a `.github/workflows/snake.yml` en tu repo de perfil:*
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{cron: "0 0 * * *"}]
+>   workflow_dispatch:
+> jobs:
+>   snake:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: JohnDSil
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🏠 Mi HomeLab *(en construcción)*
+
+> *Todo SysAdmin empieza en algún sitio. El mío empieza aquí.*
+
+<div align="center">
+
+```
+┌─────────────────── MI LAB ───────────────────┐
+│                                               │
+│   💻 Máquina Host                             │
+│   └── VirtualBox / VMware                    │
+│        ├── 🐧 Ubuntu Server  → servicios web  │
+│        └── 🪟 Windows Server → Active Dir.   │
+│                                               │
+│   🎯 Próximo objetivo: añadir un mini-PC      │
+│      dedicado para correr Docker 24/7         │
+└───────────────────────────────────────────────┘
+```
+
+| 🖥️ Máquina | 💿 SO | ⚙️ Rol | 📊 Estado |
+|:---|:---:|:---|:---:|
+| **VM 1** | Ubuntu Server 22.04 | Apache, Nginx, DNS, DHCP | ✅ Activa |
+| **VM 2** | Windows Server 2022 | Active Directory, GPOs | ✅ Activa |
+| **Próximo paso** | Cualquier Linux | Docker + contenedores | 🔄 Planeando |
+
+</div>
+
+---
+
+## 🚀 Proyectos futuros
+
+> *Lo que tengo en mente para cuando acabe 2º y gane más experiencia.*
+
+<div align="center">
+
+| 🏗️ Proyecto | 🛠️ Tecnologías | 🎯 Objetivo | 📅 Cuándo |
+|:---|:---:|:---|:---:|
+| **HomeLab completo** | Proxmox, Docker | Infraestructura real con múltiples servicios | 2º ASIR |
+| **Pipeline CI/CD propio** | Jenkins, GitHub Actions | Automatizar despliegues desde cero | 2º ASIR |
+| **Lab de ciberseguridad** | Kali, Metasploit | Practicar pentesting en entorno controlado | 2025-2026 |
+| **Stack de monitorización** | Prometheus, Grafana | Observabilidad completa de mis servicios | 2025-2026 |
+| **Servidor NAS casero** | TrueNAS / Samba | Almacenamiento y backup centralizado | 2025-2026 |
+| **Despliegue cloud real** | AWS / Terraform | Infraestructura como código en la nube | 2026 |
+
+</div>
 
 ---
 
@@ -189,7 +270,7 @@
 
 ## 📚 Recursos que uso para aprender
 
-> *Estos son los sitios, canales y plataformas que realmente me están ayudando. Los comparto por si le sirven a alguien más.*
+> *Los comparto por si le sirven a alguien más. Estos son los que realmente uso, no una lista random.*
 
 <div align="center">
 
@@ -264,11 +345,20 @@
 ### 🌟 Fun Facts
 
 - 🌙 Trabajo mejor de noche — el silencio es mi mejor entorno de producción
-- ☕ El café no es opcional, es un servicio crítico de mi infraestructura personal
-- 🏠 Mi HomeLab es pequeño pero crece con cada módulo nuevo que aprendo
+- ☕ El café no es opcional, es un **servicio crítico** de mi infraestructura personal
 - 🐧 Cada semana que pasa, el ratón me da más pereza que la terminal
+- 🏠 Mi HomeLab son dos VMs... pero para mí es como tener un datacenter
+- 🔧 Si algo falla, mi primera reacción es abrir la ArchWiki — aunque use Ubuntu
 - 📚 Leo documentación técnica para dormir (y sorprendentemente funciona)
-- 🔧 Si algo falla, lo primero que hago es buscarlo en la ArchWiki
+- 🎮 Gaming es mi forma de hacer rollback mental después de un día de prácticas
+- 🤦 He roto el sistema operativo más veces de las que me gustaría admitir. Y he aprendido más cada vez.
+
+---
+
+<!-- QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=La%20mejor%20forma%20de%20aprender%20administración%20de%20sistemas%20es%20romper%20cosas%20y%20arreglarlas&author=Cualquier%20SysAdmin%20honesto"/>
+</div>
 
 ---
 
